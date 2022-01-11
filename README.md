@@ -1,7 +1,7 @@
 # solidity-test-and-progess
 #### Testing out and tracking progrss Solidity, EVM, and Smart Contracts development.
 
-#### Utilized FreeCodeCamp.org "Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial" on Youtube
+#### Utilized FreeCodeCamp.org on Youtube (https://github.com/smartcontractkit/full-blockchain-solidity-course-py)
 
 01/02/22 - started "official" blockchain development journey.
 
